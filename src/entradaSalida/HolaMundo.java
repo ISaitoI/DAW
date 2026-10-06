@@ -17,7 +17,5 @@ public class HolaMundo {
 			nombre = sc.nextLine();
 			System.out.print("Encantado de conocerte "+nombre);
 		}
-
 	}
-
 }
